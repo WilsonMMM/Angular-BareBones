@@ -1,33 +1,79 @@
 [
     {
-        "updateId": 1,
-        "stops": [
+        "serviceName": "nines",
+        "serviceIcon": "<img src=\"/resources/i.aspx?p=/DF243034569DC881C3ADBB185E7EF786DCD5BDDD507A1E57/RouteListServiceIcon/nines-doughnut-updated.png\" width=\"25\" height=\"22\" alt=\"nines\" />",
+        "serviceIconRaw": "/resources/res.aspx?p=/DF243034569DC881C3ADBB185E7EF786DCD5BDDD507A1E57/nines-doughnut-updated.png",
+        "stopName": "East Midlands Designer Outlet",
+        "latLongPosition": "53.1078746622,-1.31436181822",
+        "latitude": 53.1078746622,
+        "longitude": -1.31436181822,
+        "result": [
             {
-                "stopId": 1,
-                "buses": [
-                    {
-                        "id": 1,
-                        "est": 5
-                    },
-                    {
-                        "id": 2,
-                        "est": 10
-                    }
-                ]
+                "uniqueIdentifier": "1TB91:91nines",
+                "serviceName": "nines",
+                "serviceDisplayName": "nines 9.1",
+                "serviceIcon": "<img src=\"/resources/res.aspx?p=/DF243034569DC881C3ADBB185E7EF786DCD5BDDD507A1E57/nines-doughnut-updated.png\" width=\"36\" height=\"31\" alt=\"RouteListServiceIcon\" />",
+                "busIconRaw": "/images/icons/bus.png",
+                "dueIn": "15 mins",
+                "destination": "Sutton, Mansfield",
+                "dueTime": "2018-04-25T12:56:20.7759607+01:00",
+                "latitude": 53.0957,
+                "longitude": -1.38815,
+                "preciseTime": 15.519783333333333,
+                "ServiceId": 28
             },
             {
-                "stopId": 2,
-                "buses": [
-                    {
-                        "id": 4,
-                        "est": 1
-                    },
-                    {
-                        "id": 5,
-                        "est": 12
-                    }
-                ]
+                "uniqueIdentifier": "31TB91:91nines",
+                "serviceName": "nines",
+                "serviceDisplayName": "nines 9.1",
+                "serviceIcon": "<img src=\"/resources/res.aspx?p=/DF243034569DC881C3ADBB185E7EF786DCD5BDDD507A1E57/nines-doughnut-updated.png\" width=\"36\" height=\"31\" alt=\"RouteListServiceIcon\" />",
+                "busIconRaw": "/images/icons/bus.png",
+                "dueIn": "16 mins",
+                "destination": "Alfreton, Derby",
+                "dueTime": "2018-04-25T12:57:20.7759607+01:00",
+                "latitude": 53.133033,
+                "longitude": -1.23245,
+                "preciseTime": 16.053116666666668,
+                "ServiceId": 28
+            },
+            {
+                "uniqueIdentifier": "31TB91:91nines",
+                "serviceName": "nines",
+                "serviceDisplayName": "nines 9.1",
+                "serviceIcon": "<img src=\"/resources/res.aspx?p=/DF243034569DC881C3ADBB185E7EF786DCD5BDDD507A1E57/nines-doughnut-updated.png\" width=\"36\" height=\"31\" alt=\"RouteListServiceIcon\" />",
+                "busIconRaw": "/images/icons/bus.png",
+                "dueIn": "44 mins",
+                "destination": "Alfreton, Derby",
+                "dueTime": "2018-04-25T13:25:20.7759607+01:00",
+                "latitude": 53.118967,
+                "longitude": -1.2839,
+                "preciseTime": 44.653116666666669,
+                "ServiceId": 28
+            },
+            {
+                "uniqueIdentifier": "1TB91:91nines",
+                "serviceName": "nines",
+                "serviceDisplayName": "nines 9.1",
+                "serviceIcon": "<img src=\"/resources/res.aspx?p=/DF243034569DC881C3ADBB185E7EF786DCD5BDDD507A1E57/nines-doughnut-updated.png\" width=\"36\" height=\"31\" alt=\"RouteListServiceIcon\" />",
+                "busIconRaw": "/images/icons/bus.png",
+                "dueIn": "46 mins",
+                "destination": "Sutton, Mansfield",
+                "dueTime": "2018-04-25T13:27:20.7759607+01:00",
+                "latitude": 53.008817,
+                "longitude": -1.424067,
+                "preciseTime": 46.053116666666668,
+                "ServiceId": 28
             }
-        ]
+        ],
+        "serviceTimetable": [
+            {
+                "timetableLink": "/services/nines/timetable",
+                "serviceName": "nines",
+                "serviceIcon": "<img src=\"/resources/res.aspx?p=/DF243034569DC881C3ADBB185E7EF786DCD5BDDD507A1E57/nines-doughnut-updated.png\" width=\"36\" height=\"31\" alt=\"RouteListServiceIcon\" />"
+            }
+        ],
+        "communicationError": false,
+        "status": true,
+        "statusMessage": "<h3>Communication Issue</h3>We are currently experiencing an issue with realtime information.<br>Please either view the timetables below, or try again in a few minutes."
     }
 ]

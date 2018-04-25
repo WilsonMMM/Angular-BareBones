@@ -1,0 +1,2258 @@
+[
+    {
+        "N": "A38 Island (Starbucks Opposite)",
+        "C": "dbsdtpgd",
+        "I": "S",
+        "Id": "6383",
+        "Lat": 52.9572682578,
+        "Lon": -1.45906987253
+    },
+    {
+        "N": "A38 Island (Starbucks Outside)",
+        "C": "dbsdtpgj",
+        "I": "N",
+        "Id": "6384",
+        "Lat": 52.95682118488,
+        "Lon": -1.45959644899
+    },
+    {
+        "N": "Abbott Road",
+        "C": "dbsagdjd",
+        "I": "N",
+        "Id": "3238",
+        "Lat": 53.09174834954,
+        "Lon": -1.37655738181
+    },
+    {
+        "N": "Alfred Road",
+        "C": "dbsdwadp",
+        "I": "S",
+        "Id": "6150",
+        "Lat": 53.00757828227,
+        "Lon": -1.43329974236
+    },
+    {
+        "N": "Alfred Road (Opposite)",
+        "C": "dbsdwadt",
+        "I": "N",
+        "Id": "6151",
+        "Lat": 53.0073011223,
+        "Lon": -1.43361633586
+    },
+    {
+        "N": "Alfreton Bus Station (bay 1)",
+        "C": "dbsgpgmt",
+        "I": "STOP",
+        "Id": "3183",
+        "Lat": 53.09566313765,
+        "Lon": -1.38782052789
+    },
+    {
+        "N": "Alfreton Bus Station (bay 5)",
+        "C": "dbsgpgpg",
+        "I": "STOP",
+        "Id": "3187",
+        "Lat": 53.09570969183,
+        "Lon": -1.38813347438
+    },
+    {
+        "N": "Alfreton High Street",
+        "C": "dbsgpgmp",
+        "I": "W",
+        "Id": "3182",
+        "Lat": 53.09738416142,
+        "Lon": -1.38861749211
+    },
+    {
+        "N": "Alfreton Railway Station (Opposite)",
+        "C": "dbsagatd",
+        "I": "SW",
+        "Id": "3211",
+        "Lat": 53.09946026811,
+        "Lon": -1.37127843852
+    },
+    {
+        "N": "Alfreton Railway Station (Outside)",
+        "C": "dbsagata",
+        "I": "NE",
+        "Id": "3210",
+        "Lat": 53.0997993849,
+        "Lon": -1.37081050829
+    },
+    {
+        "N": "Alfreton Road",
+        "C": "dbsdapgm",
+        "I": "E",
+        "Id": "8287",
+        "Lat": 53.10040281512,
+        "Lon": -1.3476370341
+    },
+    {
+        "N": "Alfreton Road A38 Bridge",
+        "C": "dbsdjajp",
+        "I": "SE",
+        "Id": "8314",
+        "Lat": 53.10008903659,
+        "Lon": -1.32679220621
+    },
+    {
+        "N": "Alfreton Road Bridge",
+        "C": "dbsdpatd",
+        "I": "NW",
+        "Id": "7569",
+        "Lat": 53.09934260591,
+        "Lon": -1.32514607234
+    },
+    {
+        "N": "Alfreton Road N-Bound",
+        "C": "dbyajamd",
+        "I": "N",
+        "Id": "1446",
+        "Lat": 52.93941965893,
+        "Lon": -1.46798214987
+    },
+    {
+        "N": "Alfreton Road S-Bound",
+        "C": "dbyajajw",
+        "I": "S",
+        "Id": "1444",
+        "Lat": 52.93964338182,
+        "Lon": -1.46775620987
+    },
+    {
+        "N": "Argyll Road (Opposite)",
+        "C": "dbsdmdtd",
+        "I": "S",
+        "Id": "7694",
+        "Lat": 53.05494444468,
+        "Lon": -1.40422720305
+    },
+    {
+        "N": "Armoury Cottage (Opposite)",
+        "C": "dbsajdgd",
+        "I": "S",
+        "Id": "4197",
+        "Lat": 52.98408512744,
+        "Lon": -1.44964911285
+    },
+    {
+        "N": "Armoury Cottage (Outside)",
+        "C": "dbsgjtpw",
+        "I": "N",
+        "Id": "4196",
+        "Lat": 52.98408560976,
+        "Lon": -1.44975337241
+    },
+    {
+        "N": "ASDA",
+        "C": "ntsdmpaj",
+        "I": "SW",
+        "Id": "20571",
+        "Lat": 53.1424303628,
+        "Lon": -1.20467701991
+    },
+    {
+        "N": "ASDA",
+        "C": "ntsgwgtw",
+        "I": "NE",
+        "Id": "27175",
+        "Lat": 53.14276811607,
+        "Lon": -1.20410267706
+    },
+    {
+        "N": "Ball Hill E-Bound",
+        "C": "dbsgwtag",
+        "I": "E",
+        "Id": "3034",
+        "Lat": 53.10753262576,
+        "Lon": -1.322134922
+    },
+    {
+        "N": "Ball Hill W-Bound ",
+        "C": "dbsdapgp",
+        "I": "W",
+        "Id": "8288",
+        "Lat": 53.10754703008,
+        "Lon": -1.32150730711
+    },
+    {
+        "N": "Bathwood Drive",
+        "C": "ntsdpjaj",
+        "I": "NE",
+        "Id": "20463",
+        "Lat": 53.13562401319,
+        "Lon": -1.22214196882
+    },
+    {
+        "N": "Bentinck Miners Welfare",
+        "C": "ntsgapmj",
+        "I": "S",
+        "Id": "16916",
+        "Lat": 53.1025018091,
+        "Lon": -1.26945969421
+    },
+    {
+        "N": "Berristow Lane (Filigree Opposite)",
+        "C": "dbsdapmg",
+        "I": "SW",
+        "Id": "8300",
+        "Lat": 53.10853367713,
+        "Lon": -1.31798131539
+    },
+    {
+        "N": "Berristow Lane (Filigree)",
+        "C": "dbsdapmj",
+        "I": "NE",
+        "Id": "8301",
+        "Lat": 53.10887968689,
+        "Lon": -1.31718411401
+    },
+    {
+        "N": "Bold Forrester (Opposite)",
+        "C": "ntsapjam",
+        "I": "NE",
+        "Id": "20568",
+        "Lat": 53.14075023611,
+        "Lon": -1.21020944024
+    },
+    {
+        "N": "Botany Avenue",
+        "C": "ntsdmpat",
+        "I": "SW",
+        "Id": "20574",
+        "Lat": 53.13984364764,
+        "Lon": -1.21176582385
+    },
+    {
+        "N": "Bottle Brook N-Bound",
+        "C": "dbsgajpg",
+        "I": "N",
+        "Id": "1735",
+        "Lat": 52.97657578225,
+        "Lon": -1.45675885387
+    },
+    {
+        "N": "Bottle Brook S-Bound",
+        "C": "dbsgajpj",
+        "I": "STOP",
+        "Id": "1736",
+        "Lat": 52.97655732853,
+        "Lon": -1.45665483766
+    },
+    {
+        "N": "Bottlebrook Houses (Opposite)",
+        "C": "dbsdpjgd",
+        "I": "SE",
+        "Id": "1693",
+        "Lat": 53.01037632626,
+        "Lon": -1.4225768237
+    },
+    {
+        "N": "Bottlebrook Houses (Outside)",
+        "C": "dbsamgmt",
+        "I": "NW",
+        "Id": "5035",
+        "Lat": 53.01077421443,
+        "Lon": -1.42306335759
+    },
+    {
+        "N": "Bowler Street",
+        "C": "dbsdtmjg",
+        "I": "N",
+        "Id": "6720",
+        "Lat": 53.03887408422,
+        "Lon": -1.40470220021
+    },
+    {
+        "N": "Bowler Street",
+        "C": "dbsdtmjw",
+        "I": "S",
+        "Id": "6724",
+        "Lat": 53.03853132296,
+        "Lon": -1.40446829712
+    },
+    {
+        "N": "Bridle Lane",
+        "C": "dbsatpaw",
+        "I": "E",
+        "Id": "6667",
+        "Lat": 53.07552197401,
+        "Lon": -1.37467210447
+    },
+    {
+        "N": "Butterley Resevoir (Opposite)",
+        "C": "dbsdmdaj",
+        "I": "N",
+        "Id": "8037",
+        "Lat": 53.06529124119,
+        "Lon": -1.39890617875
+    },
+    {
+        "N": "Butterley Works (Opposite)",
+        "C": "dbsagjgt",
+        "I": "N",
+        "Id": "3383",
+        "Lat": 53.05968862767,
+        "Lon": -1.40380367618
+    },
+    {
+        "N": "Butterley Works (Outside)",
+        "C": "dbsgmpat",
+        "I": "S",
+        "Id": "1662",
+        "Lat": 53.06020075288,
+        "Lon": -1.40375184495
+    },
+    {
+        "N": "Bywell Lane (Kilburn Toll Bar Opposite)",
+        "C": "dbsdwdpg",
+        "I": "S",
+        "Id": "6316",
+        "Lat": 53.01174216309,
+        "Lon": -1.43747813895
+    },
+    {
+        "N": "Bywell Lane (Kilburn Toll Bar)",
+        "C": "dbsdwdpj",
+        "I": "N",
+        "Id": "6317",
+        "Lat": 53.01141934435,
+        "Lon": -1.43764628421
+    },
+    {
+        "N": "Caesar Street",
+        "C": "dbyadmgm",
+        "I": "N",
+        "Id": "1459",
+        "Lat": 52.93169668645,
+        "Lon": -1.47176632558
+    },
+    {
+        "N": "Carnfield Hall",
+        "C": "dbsadtjg",
+        "I": "E",
+        "Id": "3113",
+        "Lat": 53.10071488531,
+        "Lon": -1.36546521221
+    },
+    {
+        "N": "Carnfield Hall (Opposite)",
+        "C": "dbsadtjd",
+        "I": "W",
+        "Id": "3112",
+        "Lat": 53.10056788545,
+        "Lon": -1.3665576562
+    },
+    {
+        "N": "Castlewood Distribution Centre",
+        "C": "dbsjdpjt",
+        "I": "STOP",
+        "Id": "2991",
+        "Lat": 53.10418963607,
+        "Lon": -1.31601862146
+    },
+    {
+        "N": "Chapel Street N-Bound",
+        "C": "dbsdmdwj",
+        "I": "N",
+        "Id": "7716",
+        "Lat": 53.05181070762,
+        "Lon": -1.40492681725
+    },
+    {
+        "N": "Chapel Street S-Bound",
+        "C": "dbsdmdwm",
+        "I": "S",
+        "Id": "7717",
+        "Lat": 53.05206223926,
+        "Lon": -1.40489351666
+    },
+    {
+        "N": "Chester Park (Jewson Opposite)",
+        "C": "dbyajama",
+        "I": "NE",
+        "Id": "1445",
+        "Lat": 52.93792350524,
+        "Lon": -1.46911643306
+    },
+    {
+        "N": "Chester Park (Jewson Outside)",
+        "C": "dbyamgdw",
+        "I": "SW",
+        "Id": "1441",
+        "Lat": 52.93756441529,
+        "Lon": -1.46922497933
+    },
+    {
+        "N": "Church Street E-Bound",
+        "C": "dbsdwjmw",
+        "I": "E",
+        "Id": "6076",
+        "Lat": 53.1081936036,
+        "Lon": -1.33897463899
+    },
+    {
+        "N": "Church Street W-Bound",
+        "C": "dbsdapma",
+        "I": "W",
+        "Id": "8298",
+        "Lat": 53.10775411863,
+        "Lon": -1.34077392052
+    },
+    {
+        "N": "Cliff Lane",
+        "C": "ntsdwgaj",
+        "I": "NE",
+        "Id": "16930",
+        "Lat": 53.09369518072,
+        "Lon": -1.29832508001
+    },
+    {
+        "N": "Cliff Lane (Opposite)",
+        "C": "ntsgjmtj",
+        "I": "STOP",
+        "Id": "17626",
+        "Lat": 53.09367579595,
+        "Lon": -1.29808646666
+    },
+    {
+        "N": "Collins Avenue (Ashfield Hotel)",
+        "C": "ntsdwajd",
+        "I": "S",
+        "Id": "17049",
+        "Lat": 53.11541675094,
+        "Lon": -1.26758246378
+    },
+    {
+        "N": "Collins Avenue (Label Traders Opposite)",
+        "C": "ntsgdagt",
+        "I": "N",
+        "Id": "17316",
+        "Lat": 53.11550828688,
+        "Lon": -1.26784984003
+    },
+    {
+        "N": "Common Road",
+        "C": "ntsdwgpj",
+        "I": "E",
+        "Id": "17004",
+        "Lat": 53.11140446381,
+        "Lon": -1.29994915046
+    },
+    {
+        "N": "Common Road (Opposite)",
+        "C": "ntsdwgpa",
+        "I": "W",
+        "Id": "17001",
+        "Lat": 53.11115164912,
+        "Lon": -1.29975904672
+    },
+    {
+        "N": "Cornhill Court (Opposite)",
+        "C": "dbsagdjw",
+        "I": "NW",
+        "Id": "3243",
+        "Lat": 53.09671771824,
+        "Lon": -1.38141380509
+    },
+    {
+        "N": "Corporation Street (stop C3)",
+        "C": "dbyampgj",
+        "I": "N",
+        "Id": "1250",
+        "Lat": 52.92304509697,
+        "Lon": -1.4749653947
+    },
+    {
+        "N": "Cotes Park Lane (Vyella Opposite)",
+        "C": "dbsdapjp",
+        "I": "N",
+        "Id": "8295",
+        "Lat": 53.08713982422,
+        "Lon": -1.37539963489
+    },
+    {
+        "N": "Cotes Park PH",
+        "C": "dbsdjamj",
+        "I": "N",
+        "Id": "8320",
+        "Lat": 53.08485875713,
+        "Lon": -1.37410388046
+    },
+    {
+        "N": "Coxbench Fox And Hounds (Opposite)",
+        "C": "dbsajdgj",
+        "I": "S",
+        "Id": "4198",
+        "Lat": 52.98678861032,
+        "Lon": -1.44915299175
+    },
+    {
+        "N": "Coxbench Fox And Hounds (Outside)",
+        "C": "dbsgjtpt",
+        "I": "N",
+        "Id": "4195",
+        "Lat": 52.98630425118,
+        "Lon": -1.4493825884
+    },
+    {
+        "N": "Crays Hill Bottom",
+        "C": "dbsgwawm",
+        "I": "E",
+        "Id": "8504",
+        "Lat": 53.07403151986,
+        "Lon": -1.3853659011
+    },
+    {
+        "N": "Cray's Hill Bottom (Opposite)",
+        "C": "dbsgwawp",
+        "I": "W",
+        "Id": "8505",
+        "Lat": 53.07382026085,
+        "Lon": -1.38623462152
+    },
+    {
+        "N": "Cray's Hill Top",
+        "C": "dbsdmajt",
+        "I": "W",
+        "Id": "7964",
+        "Lat": 53.07439728907,
+        "Lon": -1.37962899724
+    },
+    {
+        "N": "Crays Hill Top E-Bound",
+        "C": "dbsdmajp",
+        "I": "E",
+        "Id": "7963",
+        "Lat": 53.07427991568,
+        "Lon": -1.3812576455
+    },
+    {
+        "N": "Cressy Road",
+        "C": "dbsgwtmp",
+        "I": "N",
+        "Id": "3117",
+        "Lat": 53.09744953294,
+        "Lon": -1.38559984327
+    },
+    {
+        "N": "Croft Lane",
+        "C": "dbsgdtdm",
+        "I": "S",
+        "Id": "4769",
+        "Lat": 52.9515146601,
+        "Lon": -1.45897790159
+    },
+    {
+        "N": "Croft Lane (Opposite)",
+        "C": "dbsgdtdp",
+        "I": "N",
+        "Id": "4770",
+        "Lat": 52.95177729925,
+        "Lon": -1.4594062615
+    },
+    {
+        "N": "Cumbersome Corner (Chapel Street Opposite)",
+        "C": "dbsdwmat",
+        "I": "W",
+        "Id": "6142",
+        "Lat": 53.00883951292,
+        "Lon": -1.4245049904
+    },
+    {
+        "N": "Cumbersome Corner (Chapel Street)",
+        "C": "dbsdwmap",
+        "I": "E",
+        "Id": "6141",
+        "Lat": 53.00885561554,
+        "Lon": -1.42411728161
+    },
+    {
+        "N": "Danesby Rise (Wright's Tyres Opposite)",
+        "C": "dbsgdwgj",
+        "I": "NE",
+        "Id": "4863",
+        "Lat": 53.01479642705,
+        "Lon": -1.43324994317
+    },
+    {
+        "N": "Danesby Rise (Wright's Tyres)",
+        "C": "dbsgdwgm",
+        "I": "SW",
+        "Id": "4864",
+        "Lat": 53.01435711627,
+        "Lon": -1.43349418483
+    },
+    {
+        "N": "Denby Bank",
+        "C": "dbsjdtjg",
+        "I": "NE",
+        "Id": "26825",
+        "Lat": 53.03130382336,
+        "Lon": -1.40623789883
+    },
+    {
+        "N": "Denby Pottery (Denby Visitor Centre Opposite)",
+        "C": "dbsgdwdw",
+        "I": "E",
+        "Id": "4860",
+        "Lat": 53.02309544949,
+        "Lon": -1.41690582206
+    },
+    {
+        "N": "Denby Pottery (Denby Visitor Centre)",
+        "C": "dbsgdwga",
+        "I": "W",
+        "Id": "4861",
+        "Lat": 53.02296010816,
+        "Lon": -1.41680328662
+    },
+    {
+        "N": "Denby School (John Flamstead Opposite)",
+        "C": "dbsgdgdt",
+        "I": "N",
+        "Id": "5009",
+        "Lat": 53.0192613666,
+        "Lon": -1.42518628291
+    },
+    {
+        "N": "Denby School (John Flamstead)",
+        "C": "dbsgdgdw",
+        "I": "S",
+        "Id": "5010",
+        "Lat": 53.01902672463,
+        "Lon": -1.42499560712
+    },
+    {
+        "N": "Derby Coach and Horses (Opposite)",
+        "C": "dbyadmdw",
+        "I": "S",
+        "Id": "1455",
+        "Lat": 52.93325969458,
+        "Lon": -1.47150926292
+    },
+    {
+        "N": "Derby Coach and Horses (Outside)",
+        "C": "dbyadmgp",
+        "I": "N",
+        "Id": "1460",
+        "Lat": 52.93350292338,
+        "Lon": -1.4716253232
+    },
+    {
+        "N": "Derby Garden Centre (Opposite)",
+        "C": "dbsdtpgm",
+        "I": "N",
+        "Id": "6385",
+        "Lat": 52.96041488852,
+        "Lon": -1.45914971678
+    },
+    {
+        "N": "Derby Garden Centre (Outside)",
+        "C": "dbsdtpgp",
+        "I": "S",
+        "Id": "6386",
+        "Lat": 52.9604234034,
+        "Lon": -1.45904540188
+    },
+    {
+        "N": "Derby Road (Rising Sun Opposite)",
+        "C": "dbsdmgat",
+        "I": "NE",
+        "Id": "7725",
+        "Lat": 53.04231858895,
+        "Lon": -1.40502765085
+    },
+    {
+        "N": "Derby Road (Rising Sun)",
+        "C": "dbsdmgaw",
+        "I": "SW",
+        "Id": "7726",
+        "Lat": 53.04257814022,
+        "Lon": -1.40480034952
+    },
+    {
+        "N": "Derby Road N-Bound",
+        "C": "dbsdtgwm",
+        "I": "N",
+        "Id": "6579",
+        "Lat": 53.0024655384,
+        "Lon": -1.44327611722
+    },
+    {
+        "N": "Derby Road S-Bound",
+        "C": "dbsdtgwp",
+        "I": "S",
+        "Id": "6580",
+        "Lat": 53.00368076021,
+        "Lon": -1.44363303693
+    },
+    {
+        "N": "Duffield Road",
+        "C": "dbsdtpgt",
+        "I": "STOP",
+        "Id": "6387",
+        "Lat": 52.96431529436,
+        "Lon": -1.46091743517
+    },
+    {
+        "N": "Duffield Road (Opposite)",
+        "C": "dbsatdmw",
+        "I": "S",
+        "Id": "6395",
+        "Lat": 52.96519565877,
+        "Lon": -1.46078738011
+    },
+    {
+        "N": "East Midlands Designer Outlet",
+        "C": "dbsdjagw",
+        "I": "N",
+        "Id": "8309",
+        "Lat": 53.1078746622,
+        "Lon": -1.31436181822
+    },
+    {
+        "N": "Eastfield Side (Opposite)",
+        "C": "ntsdtawa",
+        "I": "SW",
+        "Id": "17450",
+        "Lat": 53.13218232035,
+        "Lon": -1.25036320435
+    },
+    {
+        "N": "Ellesmere Avenue",
+        "C": "dbsgwdtd",
+        "I": "SE",
+        "Id": "3244",
+        "Lat": 53.09662542775,
+        "Lon": -1.38095217462
+    },
+    {
+        "N": "Elm Tree (Opposite)",
+        "C": "dbsapwgm",
+        "I": "N",
+        "Id": "6158",
+        "Lat": 53.00824597829,
+        "Lon": -1.42631619669
+    },
+    {
+        "N": "Elm Tree Avenue",
+        "C": "dbsdwaga",
+        "I": "S",
+        "Id": "6153",
+        "Lat": 53.00777799094,
+        "Lon": -1.42620317277
+    },
+    {
+        "N": "Elms Avenue",
+        "C": "dbsdmgda",
+        "I": "S",
+        "Id": "7727",
+        "Lat": 53.04572045704,
+        "Lon": -1.40581614518
+    },
+    {
+        "N": "Firs Avenue",
+        "C": "dbsgmtpt",
+        "I": "E",
+        "Id": "3218",
+        "Lat": 53.09833440634,
+        "Lon": -1.38288408317
+    },
+    {
+        "N": "Flowery Leys Lane",
+        "C": "dbsagdjm",
+        "I": "N",
+        "Id": "3240",
+        "Lat": 53.09404150893,
+        "Lon": -1.37673331313
+    },
+    {
+        "N": "Fonton Hall Drive (Duke of Sussex Opposite)",
+        "C": "ntsdtapt",
+        "I": "NE",
+        "Id": "17441",
+        "Lat": 53.11536167621,
+        "Lon": -1.28664756591
+    },
+    {
+        "N": "Fonton Hall Drive (Duke of Sussex Outside)",
+        "C": "ntsgjgwa",
+        "I": "STOP",
+        "Id": "17607",
+        "Lat": 53.11542334135,
+        "Lon": -1.28643737745
+    },
+    {
+        "N": "Fox Street (City Road Opposite)",
+        "C": "dbyadmgj",
+        "I": "NE",
+        "Id": "1458",
+        "Lat": 52.92825491094,
+        "Lon": -1.47405446557
+    },
+    {
+        "N": "Fox Street (City Road)",
+        "C": "dbyadmgd",
+        "I": "SW",
+        "Id": "1457",
+        "Lat": 52.92790440985,
+        "Lon": -1.47407358744
+    },
+    {
+        "N": "Frank Avenue",
+        "C": "ntsamdtg",
+        "I": "SW",
+        "Id": "20603",
+        "Lat": 53.13887451653,
+        "Lon": -1.21338307893
+    },
+    {
+        "N": "Frederick Avenue (Ashfield School Opposite)",
+        "C": "ntsgaptj",
+        "I": "N",
+        "Id": "16923",
+        "Lat": 53.10600686958,
+        "Lon": -1.26934057358
+    },
+    {
+        "N": "Frederick Avenue (Opposite)",
+        "C": "ntsdwgam",
+        "I": "S",
+        "Id": "16931",
+        "Lat": 53.10669649141,
+        "Lon": -1.26892557536
+    },
+    {
+        "N": "Frederick Gent School (Opposite)",
+        "C": "dbsdjaja",
+        "I": "E",
+        "Id": "8310",
+        "Lat": 53.10083182022,
+        "Lon": -1.33259051899
+    },
+    {
+        "N": "George Street",
+        "C": "dbsdapgj",
+        "I": "W",
+        "Id": "8286",
+        "Lat": 53.10024181346,
+        "Lon": -1.35107458025
+    },
+    {
+        "N": "George Street (Opposite)",
+        "C": "dbsdapgd",
+        "I": "E",
+        "Id": "8285",
+        "Lat": 53.10028500259,
+        "Lon": -1.35240317049
+    },
+    {
+        "N": "Grange Lodge (Outside)",
+        "C": "dbsdmdam",
+        "I": "S",
+        "Id": "8038",
+        "Lat": 53.06653567519,
+        "Lon": -1.3979039057
+    },
+    {
+        "N": "Grosvenor Road",
+        "C": "dbsdmgjm",
+        "I": "W",
+        "Id": "7758",
+        "Lat": 53.05019663461,
+        "Lon": -1.4057247726
+    },
+    {
+        "N": "Hack Lane (Staff of Life Opposite)",
+        "C": "ntsdwapw",
+        "I": "S",
+        "Id": "17091",
+        "Lat": 53.12410142391,
+        "Lon": -1.26922811889
+    },
+    {
+        "N": "Hack Lane (Staff of Life Outside)",
+        "C": "ntsdwjpa",
+        "I": "N",
+        "Id": "17082",
+        "Lat": 53.12369649452,
+        "Lon": -1.26916026733
+    },
+    {
+        "N": "Hartington Drive",
+        "C": "ntsgdapa",
+        "I": "E",
+        "Id": "17343",
+        "Lat": 53.13214020496,
+        "Lon": -1.24653765458
+    },
+    {
+        "N": "Hartington Drive (Opposite)",
+        "C": "ntsgdapd",
+        "I": "W",
+        "Id": "17344",
+        "Lat": 53.13200594934,
+        "Lon": -1.2466296806
+    },
+    {
+        "N": "Haslams Lane",
+        "C": "dbyajamg",
+        "I": "NE",
+        "Id": "1447",
+        "Lat": 52.94159915505,
+        "Lon": -1.46688403363
+    },
+    {
+        "N": "Haslams Lane (Opposite)",
+        "C": "dbyamgjd",
+        "I": "SW",
+        "Id": "1443",
+        "Lat": 52.94164296497,
+        "Lon": -1.4666305268
+    },
+    {
+        "N": "Henning Lane",
+        "C": "ntsdwjgt",
+        "I": "NE",
+        "Id": "17073",
+        "Lat": 53.11894166129,
+        "Lon": -1.28403327663
+    },
+    {
+        "N": "Henning Lane (Opposite)",
+        "C": "ntsdwjgp",
+        "I": "S",
+        "Id": "17072",
+        "Lat": 53.11835112817,
+        "Lon": -1.28449133253
+    },
+    {
+        "N": "Hermitage Lane",
+        "C": "ntsdjtgp",
+        "I": "SW",
+        "Id": "20659",
+        "Lat": 53.13700809207,
+        "Lon": -1.21661606309
+    },
+    {
+        "N": "Hermitage Lane (Opposite)",
+        "C": "ntsdjtgm",
+        "I": "NE",
+        "Id": "20658",
+        "Lat": 53.13738401992,
+        "Lon": -1.21637005428
+    },
+    {
+        "N": "Hickton Road",
+        "C": "dbsdmdga",
+        "I": "S",
+        "Id": "8042",
+        "Lat": 53.06915973207,
+        "Lon": -1.39774792906
+    },
+    {
+        "N": "Hickton Road (Opposite)",
+        "C": "dbsdmdap",
+        "I": "N",
+        "Id": "8039",
+        "Lat": 53.06924198772,
+        "Lon": -1.39801542307
+    },
+    {
+        "N": "High Street",
+        "C": "dbsdmgmw",
+        "I": "S",
+        "Id": "7782",
+        "Lat": 53.04933863972,
+        "Lon": -1.40672113262
+    },
+    {
+        "N": "Highfield Road (Kilburn School E-Bound)",
+        "C": "dbsdwapt",
+        "I": "E",
+        "Id": "6205",
+        "Lat": 53.0085470093,
+        "Lon": -1.43664035382
+    },
+    {
+        "N": "Highfield Road (Kilburn School W-Bound)",
+        "C": "dbsapwpt",
+        "I": "W",
+        "Id": "6206",
+        "Lat": 53.00845655759,
+        "Lon": -1.43652230305
+    },
+    {
+        "N": "Hill Crescent (Opposite)",
+        "C": "ntsgdamp",
+        "I": "W",
+        "Id": "17340",
+        "Lat": 53.13163904725,
+        "Lon": -1.24122555469
+    },
+    {
+        "N": "Hockley Place (Duke of Wellington Opposite)",
+        "C": "ntsdwjwt",
+        "I": "N",
+        "Id": "17549",
+        "Lat": 53.0988729252,
+        "Lon": -1.26990945626
+    },
+    {
+        "N": "Hockley Place (Duke of Wellington)",
+        "C": "ntsdwgaw",
+        "I": "S",
+        "Id": "16934",
+        "Lat": 53.09830483176,
+        "Lon": -1.26962037737
+    },
+    {
+        "N": "Holbrook Rail Crossing",
+        "C": "dbsgajpt",
+        "I": "N",
+        "Id": "1738",
+        "Lat": 52.99045605875,
+        "Lon": -1.45105789852
+    },
+    {
+        "N": "Holbrook Rail Crossing (Opposite)",
+        "C": "dbsgajpm",
+        "I": "STOP",
+        "Id": "1737",
+        "Lat": 52.99044658877,
+        "Lon": -1.45095373754
+    },
+    {
+        "N": "Kilburn The Chase",
+        "C": "dbsapwgd",
+        "I": "N",
+        "Id": "6156",
+        "Lat": 53.00593077577,
+        "Lon": -1.42528879138
+    },
+    {
+        "N": "Kilburn The Chase (Opposite)",
+        "C": "dbsapwgj",
+        "I": "S",
+        "Id": "6157",
+        "Lat": 53.00633548331,
+        "Lon": -1.42532812682
+    },
+    {
+        "N": "Kilburn Toll Bar",
+        "C": "dbsdwdpt",
+        "I": "SW",
+        "Id": "6319",
+        "Lat": 53.01251839694,
+        "Lon": -1.43624584874
+    },
+    {
+        "N": "Kilburn Toll Bar (Opposite)",
+        "C": "dbsdwdpm",
+        "I": "NE",
+        "Id": "6318",
+        "Lat": 53.01297498449,
+        "Lon": -1.43585236991
+    },
+    {
+        "N": "King Street",
+        "C": "dbsawjtw",
+        "I": "NE",
+        "Id": "7596",
+        "Lat": 53.09320935475,
+        "Lon": -1.31837288729
+    },
+    {
+        "N": "Kings Mill Hospital (Opposite)",
+        "C": "ntsdtdja",
+        "I": "SW",
+        "Id": "17482",
+        "Lat": 53.13301138118,
+        "Lon": -1.23233797541
+    },
+    {
+        "N": "Kings Mill Hospital (Outside)",
+        "C": "ntsdtdgw",
+        "I": "NE",
+        "Id": "17481",
+        "Lat": 53.13316620205,
+        "Lon": -1.23264909937
+    },
+    {
+        "N": "Kings Mill Lane (Morrisons Opposite)",
+        "C": "ntsdpjap",
+        "I": "NE",
+        "Id": "20465",
+        "Lat": 53.13502428626,
+        "Lon": -1.22529176012
+    },
+    {
+        "N": "Kings Mill Lane (Morrisons Outside)",
+        "C": "ntsgdtag",
+        "I": "SW",
+        "Id": "20402",
+        "Lat": 53.134679966,
+        "Lon": -1.22625458034
+    },
+    {
+        "N": "Kirkby Cross N-Bound",
+        "C": "ntsgaptp",
+        "I": "N",
+        "Id": "16925",
+        "Lat": 53.10124399983,
+        "Lon": -1.26957061099
+    },
+    {
+        "N": "Kirkby Cross S-Bound",
+        "C": "ntsdwgat",
+        "I": "S",
+        "Id": "16933",
+        "Lat": 53.10046266066,
+        "Lon": -1.26968838947
+    },
+    {
+        "N": "Kirkby Lane NE-Bound",
+        "C": "ntsgaptm",
+        "I": "NE",
+        "Id": "16924",
+        "Lat": 53.09310400673,
+        "Lon": -1.30481554443
+    },
+    {
+        "N": "Kirkland Avenue (Opposite)",
+        "C": "ntsamdmd",
+        "I": "NE",
+        "Id": "20588",
+        "Lat": 53.13921428755,
+        "Lon": -1.2131077937
+    },
+    {
+        "N": "Laburnum Avenue",
+        "C": "ntsdwgda",
+        "I": "SW",
+        "Id": "16935",
+        "Lat": 53.09387979454,
+        "Lon": -1.27217418616
+    },
+    {
+        "N": "Laburnum Avenue (Opposite)",
+        "C": "ntsdwgdg",
+        "I": "NE",
+        "Id": "16936",
+        "Lat": 53.09434609049,
+        "Lon": -1.27198712073
+    },
+    {
+        "N": "Lammas Road NE-Bound",
+        "C": "ntsdwata",
+        "I": "NE",
+        "Id": "17092",
+        "Lat": 53.12565893749,
+        "Lon": -1.26669109193
+    },
+    {
+        "N": "Lammas Road SW-Bound",
+        "C": "ntsdwatd",
+        "I": "SW",
+        "Id": "17093",
+        "Lat": 53.12570881726,
+        "Lon": -1.26603269982
+    },
+    {
+        "N": "Leabrooks Corner (Opposite Co-Op)",
+        "C": "dbsatpda",
+        "I": "W",
+        "Id": "6668",
+        "Lat": 53.07523013158,
+        "Lon": -1.37558685295
+    },
+    {
+        "N": "Little Eaton The Chase ",
+        "C": "dbsatdmj",
+        "I": "NE",
+        "Id": "6392",
+        "Lat": 52.97971129435,
+        "Lon": -1.45441104001
+    },
+    {
+        "N": "Little Eaton The Chase (Opposite)",
+        "C": "dbsatdmp",
+        "I": "SW",
+        "Id": "6393",
+        "Lat": 52.97991653319,
+        "Lon": -1.45408079536
+    },
+    {
+        "N": "Lower Kilburn Church View",
+        "C": "dbsdtgwg",
+        "I": "SW",
+        "Id": "6577",
+        "Lat": 52.998146178,
+        "Lon": -1.44616263894
+    },
+    {
+        "N": "Lower Kilburn Church View (Opposite)",
+        "C": "dbsdtjag",
+        "I": "NE",
+        "Id": "6583",
+        "Lat": 52.99836163047,
+        "Lon": -1.44610028329
+    },
+    {
+        "N": "Lower Millbridge Kennels (Opposite)",
+        "C": "dbsdtjad",
+        "I": "S",
+        "Id": "6582",
+        "Lat": 53.00583101784,
+        "Lon": -1.4440226751
+    },
+    {
+        "N": "Lower Millbridge Kennels (Outside)",
+        "C": "dbsdtgwt",
+        "I": "N",
+        "Id": "6581",
+        "Lat": 53.00590348471,
+        "Lon": -1.44414096531
+    },
+    {
+        "N": "Main Street SE-Bound",
+        "C": "dbsgwpwp",
+        "I": "S",
+        "Id": "3031",
+        "Lat": 53.10718184329,
+        "Lon": -1.33485240873
+    },
+    {
+        "N": "Main Street SW-Bound",
+        "C": "dbsgwpwt",
+        "I": "W",
+        "Id": "3032",
+        "Lat": 53.1082049419,
+        "Lon": -1.3377794224
+    },
+    {
+        "N": "Mansfield Bus Station (bay J)",
+        "C": "ntsgwadt",
+        "I": "STOP",
+        "Id": "20919",
+        "Lat": 53.14301402491,
+        "Lon": -1.19787883366
+    },
+    {
+        "N": "Mansfield Community Hospital (Bus Garage Opposite)",
+        "C": "ntsapjap",
+        "I": "NE",
+        "Id": "20569",
+        "Lat": 53.14165153833,
+        "Lon": -1.20786075072
+    },
+    {
+        "N": "Mansfield Community Hospital (Bus Garage Outside)",
+        "C": "ntsdmpag",
+        "I": "SW",
+        "Id": "20570",
+        "Lat": 53.14162179015,
+        "Lon": -1.20744270491
+    },
+    {
+        "N": "Mapplewells Road",
+        "C": "ntsdwjgw",
+        "I": "SW",
+        "Id": "17074",
+        "Lat": 53.11961685971,
+        "Lon": -1.28270716267
+    },
+    {
+        "N": "Market Street",
+        "C": "dbsdjajd",
+        "I": "N",
+        "Id": "8311",
+        "Lat": 53.10412545123,
+        "Lon": -1.34293544475
+    },
+    {
+        "N": "Market Street",
+        "C": "dbsdjajg",
+        "I": "SW",
+        "Id": "8312",
+        "Lat": 53.10369417213,
+        "Lon": -1.34297188754
+    },
+    {
+        "N": "Market Street Junction (Opposite)",
+        "C": "dbsdapjw",
+        "I": "N",
+        "Id": "8297",
+        "Lat": 53.10089439694,
+        "Lon": -1.34385091954
+    },
+    {
+        "N": "Marshall Street Tesco",
+        "C": "dbsgpawp",
+        "I": "N",
+        "Id": "2304",
+        "Lat": 53.09526917831,
+        "Lon": -1.38812478765
+    },
+    {
+        "N": "Mason Street (Hill Crescent)",
+        "C": "ntsgdamt",
+        "I": "E",
+        "Id": "17341",
+        "Lat": 53.13195985322,
+        "Lon": -1.24361132255
+    },
+    {
+        "N": "Mayfield Street",
+        "C": "ntsgaptw",
+        "I": "SE",
+        "Id": "16926",
+        "Lat": 53.09361810481,
+        "Lon": -1.27643451645
+    },
+    {
+        "N": "Mayfield Street (Opposite)",
+        "C": "ntsgaptg",
+        "I": "NW",
+        "Id": "16922",
+        "Lat": 53.09369282317,
+        "Lon": -1.27689618837
+    },
+    {
+        "N": "Meadow Court",
+        "C": "dbsdwadw",
+        "I": "E",
+        "Id": "6152",
+        "Lat": 53.0055288154,
+        "Lon": -1.43143395492
+    },
+    {
+        "N": "Meadow Court (Opposite)",
+        "C": "dbsdwadm",
+        "I": "W",
+        "Id": "6149",
+        "Lat": 53.00549513834,
+        "Lon": -1.43191127656
+    },
+    {
+        "N": "Meadow Lane",
+        "C": "dbsgmtwa",
+        "I": "E",
+        "Id": "3220",
+        "Lat": 53.09852690744,
+        "Lon": -1.3784158699
+    },
+    {
+        "N": "Midland Railway Centre (Opposite)",
+        "C": "dbsagtgt",
+        "I": "SW",
+        "Id": "3608",
+        "Lat": 53.061691665,
+        "Lon": -1.40170189145
+    },
+    {
+        "N": "Midland Railway Centre (Outside)",
+        "C": "dbsagjgw",
+        "I": "NE",
+        "Id": "3384",
+        "Lat": 53.06167466257,
+        "Lon": -1.4018961114
+    },
+    {
+        "N": "Miners Welfare (Opposite)",
+        "C": "dbsdtatm",
+        "I": "S",
+        "Id": "6772",
+        "Lat": 53.03733479158,
+        "Lon": -1.40427598814
+    },
+    {
+        "N": "Miners Welfare (Outside)",
+        "C": "dbsdtawp",
+        "I": "N",
+        "Id": "6794",
+        "Lat": 53.03630408423,
+        "Lon": -1.40488671277
+    },
+    {
+        "N": "Monk Road",
+        "C": "dbsdawjd",
+        "I": "S",
+        "Id": "8323",
+        "Lat": 53.09020787589,
+        "Lon": -1.37592263843
+    },
+    {
+        "N": "Monk Road (Opposite)",
+        "C": "dbsdawja",
+        "I": "N",
+        "Id": "8322",
+        "Lat": 53.08997480101,
+        "Lon": -1.37604546245
+    },
+    {
+        "N": "Morley Lane",
+        "C": "dbsatdpd",
+        "I": "S",
+        "Id": "6397",
+        "Lat": 52.97262047888,
+        "Lon": -1.45872938635
+    },
+    {
+        "N": "Morley Lane (Opposite)",
+        "C": "dbsatdpa",
+        "I": "N",
+        "Id": "6396",
+        "Lat": 52.97228857062,
+        "Lon": -1.45888244146
+    },
+    {
+        "N": "Mount Pleasant Farm (Mitech Joinery Opposite)",
+        "C": "dbsgdwgd",
+        "I": "NE",
+        "Id": "4862",
+        "Lat": 53.02894455315,
+        "Lon": -1.40902874357
+    },
+    {
+        "N": "Mount Pleasant Farm (Mitech Joinery)",
+        "C": "dbsgtwjg",
+        "I": "SW",
+        "Id": "7587",
+        "Lat": 53.0284429656,
+        "Lon": -1.4093934464
+    },
+    {
+        "N": "Normanton Common",
+        "C": "dbsdjapj",
+        "I": "E",
+        "Id": "8340",
+        "Lat": 53.10054517627,
+        "Lon": -1.34246724126
+    },
+    {
+        "N": "Nottingham Road (Opposite)",
+        "C": "dbsdawgw",
+        "I": "S",
+        "Id": "8321",
+        "Lat": 53.08393737567,
+        "Lon": -1.37325132359
+    },
+    {
+        "N": "Nursery Avenue (Springfield Motors Opposite)",
+        "C": "ntsdwjmd",
+        "I": "SW",
+        "Id": "17076",
+        "Lat": 53.12132339943,
+        "Lon": -1.27949598345
+    },
+    {
+        "N": "Nursery Avenue (Springfield Motors)",
+        "C": "ntsdwjma",
+        "I": "NE",
+        "Id": "17075",
+        "Lat": 53.12070685571,
+        "Lon": -1.28159822794
+    },
+    {
+        "N": "Oak Tree Road (New Cross Opposite)",
+        "C": "ntsdtdpt",
+        "I": "NE",
+        "Id": "17430",
+        "Lat": 53.1312740909,
+        "Lon": -1.25317392898
+    },
+    {
+        "N": "Oak Tree Road (New Cross)",
+        "C": "ntsdtdta",
+        "I": "SW",
+        "Id": "17432",
+        "Lat": 53.13136911785,
+        "Lon": -1.25255948997
+    },
+    {
+        "N": "Outram Street (Nothern Bridge NE-Bound)",
+        "C": "ntsgdgmj",
+        "I": "NE",
+        "Id": "17384",
+        "Lat": 53.12698325353,
+        "Lon": -1.25844901973
+    },
+    {
+        "N": "Outram Street (Nothern Bridge SW-Bound)",
+        "C": "ntsgdgdp",
+        "I": "SW",
+        "Id": "17386",
+        "Lat": 53.12686519713,
+        "Lon": -1.25825677172
+    },
+    {
+        "N": "Paddocks Close",
+        "C": "dbsdpapw",
+        "I": "SE",
+        "Id": "7567",
+        "Lat": 53.09841383887,
+        "Lon": -1.32305481477
+    },
+    {
+        "N": "Paddocks Close",
+        "C": "dbsdpata",
+        "I": "NW",
+        "Id": "7568",
+        "Lat": 53.09809686761,
+        "Lon": -1.32264162118
+    },
+    {
+        "N": "Parkin Street (Opposite)",
+        "C": "dbsgmtwd",
+        "I": "W",
+        "Id": "3221",
+        "Lat": 53.09851277031,
+        "Lon": -1.377430387
+    },
+    {
+        "N": "Pease Hill (Opposite)",
+        "C": "dbsagdjg",
+        "I": "S",
+        "Id": "3239",
+        "Lat": 53.09285401214,
+        "Lon": -1.37655634022
+    },
+    {
+        "N": "Pektron (Opposite)",
+        "C": "dbyamgdt",
+        "I": "NE",
+        "Id": "1440",
+        "Lat": 52.94739269073,
+        "Lon": -1.46187186057
+    },
+    {
+        "N": "Pektron (Outside)",
+        "C": "dbyamgap",
+        "I": "STOP",
+        "Id": "1432",
+        "Lat": 52.94734740974,
+        "Lon": -1.46179800989
+    },
+    {
+        "N": "Percy Street (Clumber Street Opposite)",
+        "C": "ntsdwjmg",
+        "I": "NE",
+        "Id": "17077",
+        "Lat": 53.12184830047,
+        "Lon": -1.27711130127
+    },
+    {
+        "N": "Percy Street (Clumber Street)",
+        "C": "ntsdwjmj",
+        "I": "SW",
+        "Id": "17078",
+        "Lat": 53.1221052341,
+        "Lon": -1.2750149849
+    },
+    {
+        "N": "Pilkington Glass",
+        "C": "dbsdjamg",
+        "I": "S",
+        "Id": "8319",
+        "Lat": 53.08678754947,
+        "Lon": -1.37507625989
+    },
+    {
+        "N": "Pinxton Alfreton Road",
+        "C": "dbsdpdgp",
+        "I": "SE",
+        "Id": "7619",
+        "Lat": 53.0962450638,
+        "Lon": -1.32105783273
+    },
+    {
+        "N": "Pinxton Alfreton Road (The Greyhound)",
+        "C": "dbsdpdgm",
+        "I": "NW",
+        "Id": "7618",
+        "Lat": 53.09629077192,
+        "Lon": -1.32119151874
+    },
+    {
+        "N": "Pinxton Lane (Pinxton Lane End)",
+        "C": "dbsdjajt",
+        "I": "NW",
+        "Id": "8315",
+        "Lat": 53.10096683657,
+        "Lon": -1.32942209695
+    },
+    {
+        "N": "Pinxton Lane E-Bound",
+        "C": "ntsgjmtd",
+        "I": "STOP",
+        "Id": "17624",
+        "Lat": 53.09587022317,
+        "Lon": -1.28467007863
+    },
+    {
+        "N": "Pinxton Lane W-Bound",
+        "C": "ntsdwgad",
+        "I": "W",
+        "Id": "16928",
+        "Lat": 53.09575409262,
+        "Lon": -1.28479147423
+    },
+    {
+        "N": "Pinxton Toll Bar E-Bound",
+        "C": "dbsdpdpg",
+        "I": "NE",
+        "Id": "7665",
+        "Lat": 53.09229837855,
+        "Lon": -1.30848699926
+    },
+    {
+        "N": "Port Way ",
+        "C": "dbsajdgm",
+        "I": "NW",
+        "Id": "4199",
+        "Lat": 52.98878091548,
+        "Lon": -1.45037898122
+    },
+    {
+        "N": "Port Way (Opposite)",
+        "C": "dbsajdgp",
+        "I": "SE",
+        "Id": "4200",
+        "Lat": 52.98855475063,
+        "Lon": -1.45006902144
+    },
+    {
+        "N": "Preston Avenue",
+        "C": "dbsgmtwj",
+        "I": "W",
+        "Id": "3223",
+        "Lat": 53.09881905592,
+        "Lon": -1.3741253867
+    },
+    {
+        "N": "Preston Avenue (Opposite)",
+        "C": "dbsgmtwg",
+        "I": "E",
+        "Id": "3222",
+        "Lat": 53.0987492858,
+        "Lon": -1.37624713042
+    },
+    {
+        "N": "Prince Of Wales PH (Opposite)",
+        "C": "dbsagjmd",
+        "I": "S",
+        "Id": "3386",
+        "Lat": 53.05686591197,
+        "Lon": -1.40378294376
+    },
+    {
+        "N": "Prince Of Wales PH (Outside)",
+        "C": "dbsagjma",
+        "I": "N",
+        "Id": "3385",
+        "Lat": 53.05653452946,
+        "Lon": -1.40402623796
+    },
+    {
+        "N": "Prospect Street",
+        "C": "dbsagdjt",
+        "I": "SE",
+        "Id": "3242",
+        "Lat": 53.09521462043,
+        "Lon": -1.37759744442
+    },
+    {
+        "N": "Prospect Street (Opposite)",
+        "C": "dbsagdjp",
+        "I": "NW",
+        "Id": "3241",
+        "Lat": 53.09533404533,
+        "Lon": -1.37808852869
+    },
+    {
+        "N": "Queens Head (Opposite)",
+        "C": "dbsdtpga",
+        "I": "S",
+        "Id": "6382",
+        "Lat": 52.96876232784,
+        "Lon": -1.46032610208
+    },
+    {
+        "N": "Queens Head (Outside)",
+        "C": "dbsatdmt",
+        "I": "N",
+        "Id": "6394",
+        "Lat": 52.96856551959,
+        "Lon": -1.46053700873
+    },
+    {
+        "N": "Raymond Close",
+        "C": "ntsdtdmd",
+        "I": "N",
+        "Id": "17501",
+        "Lat": 53.11193627431,
+        "Lon": -1.26731291914
+    },
+    {
+        "N": "Raymond Close (Opposite)",
+        "C": "ntsgapta",
+        "I": "S",
+        "Id": "16920",
+        "Lat": 53.1117192693,
+        "Lon": -1.26710745618
+    },
+    {
+        "N": "Recreation Ground (Opposite)",
+        "C": "dbsgdwgt",
+        "I": "SW",
+        "Id": "4866",
+        "Lat": 53.01576901548,
+        "Lon": -1.4317316979
+    },
+    {
+        "N": "Recreation Ground (Outside)",
+        "C": "dbsgdwgp",
+        "I": "NE",
+        "Id": "4865",
+        "Lat": 53.01632310952,
+        "Lon": -1.43105364218
+    },
+    {
+        "N": "Ripley Leisure Centre (Opposite)",
+        "C": "dbsdmgdg",
+        "I": "S",
+        "Id": "7728",
+        "Lat": 53.04755577115,
+        "Lon": -1.40611909003
+    },
+    {
+        "N": "Ripley Leisure Centre (Outside)",
+        "C": "dbsdmgap",
+        "I": "N",
+        "Id": "7724",
+        "Lat": 53.04748438319,
+        "Lon": -1.40622448972
+    },
+    {
+        "N": "Ripley Market Place",
+        "C": "dbsawmdm",
+        "I": "N",
+        "Id": "7798",
+        "Lat": 53.05045597664,
+        "Lon": -1.40725776095
+    },
+    {
+        "N": "Royal Tiger (Opposite)",
+        "C": "dbsdjamd",
+        "I": "NW",
+        "Id": "8318",
+        "Lat": 53.08179757989,
+        "Lon": -1.3714759984
+    },
+    {
+        "N": "Royal Tiger (Outside)",
+        "C": "dbsdawjw",
+        "I": "SE",
+        "Id": "8328",
+        "Lat": 53.08099870267,
+        "Lon": -1.36999477074
+    },
+    {
+        "N": "Sherwood Road (Ocean Blue Opposite)",
+        "C": "ntsdwpga",
+        "I": "N",
+        "Id": "17538",
+        "Lat": 53.11717973451,
+        "Lon": -1.26776168866
+    },
+    {
+        "N": "Sherwood Street N-Bound",
+        "C": "dbsdtjga",
+        "I": "N",
+        "Id": "6609",
+        "Lat": 53.07797603352,
+        "Lon": -1.37296467679
+    },
+    {
+        "N": "Sherwood Street S-Bound",
+        "C": "dbsdtjmt",
+        "I": "S",
+        "Id": "6634",
+        "Lat": 53.07813680454,
+        "Lon": -1.37276828311
+    },
+    {
+        "N": "Somercotes High Street (across from The Royal Tiger)",
+        "C": "dbsdjgwa",
+        "I": "SW",
+        "Id": "8156",
+        "Lat": 53.0810210211,
+        "Lon": -1.37081551783
+    },
+    {
+        "N": "South Normanton Common W-Bound",
+        "C": "dbsdapjt",
+        "I": "W",
+        "Id": "8296",
+        "Lat": 53.10041477757,
+        "Lon": -1.34490368791
+    },
+    {
+        "N": "South Normanton Market Place NE-Bound",
+        "C": "dbsdjajm",
+        "I": "STOP",
+        "Id": "8313",
+        "Lat": 53.10632489172,
+        "Lon": -1.34240900357
+    },
+    {
+        "N": "South Normanton Market Place SW-Bound",
+        "C": "dbsdapjm",
+        "I": "SW",
+        "Id": "8294",
+        "Lat": 53.10630617256,
+        "Lon": -1.34227485262
+    },
+    {
+        "N": "Spring Road NW-Bound",
+        "C": "ntsdwapm",
+        "I": "NW",
+        "Id": "17089",
+        "Lat": 53.12165560639,
+        "Lon": -1.26764082557
+    },
+    {
+        "N": "Spring Road SE-Bound",
+        "C": "ntsdwapt",
+        "I": "SE",
+        "Id": "17090",
+        "Lat": 53.1219344257,
+        "Lon": -1.26766597382
+    },
+    {
+        "N": "St Helens",
+        "C": "ntsdwdwt",
+        "I": "SE",
+        "Id": "16927",
+        "Lat": 53.09533396163,
+        "Lon": -1.28070662555
+    },
+    {
+        "N": "St Helens (Opposite)",
+        "C": "ntsgjmta",
+        "I": "STOP",
+        "Id": "17623",
+        "Lat": 53.09529882013,
+        "Lon": -1.28084161395
+    },
+    {
+        "N": "St Pauls Church (Alder Court Opposite)",
+        "C": "dbyadmga",
+        "I": "S",
+        "Id": "1456",
+        "Lat": 52.93074445921,
+        "Lon": -1.47191180348
+    },
+    {
+        "N": "St Pauls Church (Alder Court Outside)",
+        "C": "dbyamtpj",
+        "I": "N",
+        "Id": "616",
+        "Lat": 52.93004570337,
+        "Lon": -1.47245585848
+    },
+    {
+        "N": "Stoney Street",
+        "C": "ntsgdgmg",
+        "I": "SW",
+        "Id": "17383",
+        "Lat": 53.12862208201,
+        "Lon": -1.25601464276
+    },
+    {
+        "N": "Stoney Street (Opposite)",
+        "C": "ntsgdgmd",
+        "I": "NE",
+        "Id": "17382",
+        "Lat": 53.12935500635,
+        "Lon": -1.25534438887
+    },
+    {
+        "N": "Street Lane End (John Flamstead School Opposite)",
+        "C": "dbsgdwgw",
+        "I": "NE",
+        "Id": "4867",
+        "Lat": 53.01963299716,
+        "Lon": -1.42582236215
+    },
+    {
+        "N": "Street Lane End (John Flamstead School Outside)",
+        "C": "dbsgdwja",
+        "I": "SW",
+        "Id": "4868",
+        "Lat": 53.01941719685,
+        "Lon": -1.42581031854
+    },
+    {
+        "N": "Stuart Street",
+        "C": "ntsdwpgd",
+        "I": "S",
+        "Id": "17539",
+        "Lat": 53.11834756405,
+        "Lon": -1.26763726057
+    },
+    {
+        "N": "Sutton Bus Station (bay A)",
+        "C": "ntsdwagp",
+        "I": "STOP",
+        "Id": "17045",
+        "Lat": 53.12583491524,
+        "Lon": -1.26316126335
+    },
+    {
+        "N": "Sutton Cemetery (Opposite)",
+        "C": "ntsdwjmt",
+        "I": "SW",
+        "Id": "17080",
+        "Lat": 53.12406097254,
+        "Lon": -1.26996104083
+    },
+    {
+        "N": "Sutton Cemetery (Outside)",
+        "C": "ntsdwjmp",
+        "I": "NE",
+        "Id": "17079",
+        "Lat": 53.12407334811,
+        "Lon": -1.27051374428
+    },
+    {
+        "N": "Sutton in Ashfield Skegby Road",
+        "C": "ntsdtatw",
+        "I": "E",
+        "Id": "17449",
+        "Lat": 53.1322038694,
+        "Lon": -1.250930794
+    },
+    {
+        "N": "Sutton Road ( Vauxhall Garage Opposite)",
+        "C": "ntsdpjam",
+        "I": "SW",
+        "Id": "20464",
+        "Lat": 53.13519276074,
+        "Lon": -1.22355482059
+    },
+    {
+        "N": "Swanwick Church (Opposite)",
+        "C": "dbsdmdat",
+        "I": "N",
+        "Id": "8040",
+        "Lat": 53.07421613042,
+        "Lon": -1.39863268797
+    },
+    {
+        "N": "Swanwick Church (Outside)",
+        "C": "dbsdmdaw",
+        "I": "S",
+        "Id": "8041",
+        "Lat": 53.07408032189,
+        "Lon": -1.39844053904
+    },
+    {
+        "N": "Tants Meadow",
+        "C": "dbsdtgwd",
+        "I": "SW",
+        "Id": "6576",
+        "Lat": 53.00016846212,
+        "Lon": -1.44416988899
+    },
+    {
+        "N": "Tants Meadow",
+        "C": "dbsdtgwj",
+        "I": "NE",
+        "Id": "6578",
+        "Lat": 53.00072478927,
+        "Lon": -1.44395413586
+    },
+    {
+        "N": "Taylor's Corner (Wharf Road)",
+        "C": "dbsawtpw",
+        "I": "SW",
+        "Id": "7678",
+        "Lat": 53.08997146172,
+        "Lon": -1.31493000485
+    },
+    {
+        "N": "The Common",
+        "C": "dbsdjapd",
+        "I": "W",
+        "Id": "8338",
+        "Lat": 53.10057445049,
+        "Lon": -1.3380160489
+    },
+    {
+        "N": "The Common",
+        "C": "dbsdjapg",
+        "I": "E",
+        "Id": "8339",
+        "Lat": 53.10065893443,
+        "Lon": -1.33704395004
+    },
+    {
+        "N": "The Gate",
+        "C": "dbsgwawj",
+        "I": "W",
+        "Id": "8503",
+        "Lat": 53.07321574122,
+        "Lon": -1.39104934783
+    },
+    {
+        "N": "The Gate (Opposite)",
+        "C": "dbsgwawg",
+        "I": "E",
+        "Id": "8502",
+        "Lat": 53.07328971003,
+        "Lon": -1.3914513042
+    },
+    {
+        "N": "The Green NW-Bound",
+        "C": "dbsgwdad",
+        "I": "NW",
+        "Id": "8507",
+        "Lat": 53.07463625164,
+        "Lon": -1.39638788207
+    },
+    {
+        "N": "The Green SE-Bound",
+        "C": "dbsgwawt",
+        "I": "SE",
+        "Id": "8506",
+        "Lat": 53.07451697808,
+        "Lon": -1.3959119069
+    },
+    {
+        "N": "The Snipe (Opposite)",
+        "C": "ntsdwgpg",
+        "I": "NE",
+        "Id": "17003",
+        "Lat": 53.1138395677,
+        "Lon": -1.2876587918
+    },
+    {
+        "N": "The Snipe (Outside)",
+        "C": "ntsdwgpd",
+        "I": "S",
+        "Id": "17002",
+        "Lat": 53.11334396032,
+        "Lon": -1.2874578219
+    },
+    {
+        "N": "Ticknallhill Farm (Ryknield Hill Top Opposite)",
+        "C": "dbsdpjdw",
+        "I": "S",
+        "Id": "1691",
+        "Lat": 53.01622915432,
+        "Lon": -1.42460050142
+    },
+    {
+        "N": "Ticknallhill Farm (Ryknield Hill Top Outside)",
+        "C": "dbsdpjga",
+        "I": "STOP",
+        "Id": "1692",
+        "Lat": 53.01622074219,
+        "Lon": -1.42471986271
+    },
+    {
+        "N": "Toll Bar SW-Bound",
+        "C": "ntsgjmtm",
+        "I": "STOP",
+        "Id": "17627",
+        "Lat": 53.09303148958,
+        "Lon": -1.30471218312
+    },
+    {
+        "N": "Unwin Road (Forest Side)",
+        "C": "ntsgdamw",
+        "I": "W",
+        "Id": "17342",
+        "Lat": 53.13139249327,
+        "Lon": -1.23780722478
+    },
+    {
+        "N": "Unwin Road (Opposite)",
+        "C": "ntsgdamj",
+        "I": "E",
+        "Id": "17339",
+        "Lat": 53.13159482098,
+        "Lon": -1.23852106499
+    },
+    {
+        "N": "Upper Marehay Road",
+        "C": "dbsdtgjm",
+        "I": "N",
+        "Id": "6984",
+        "Lat": 53.03307190437,
+        "Lon": -1.40567679179
+    },
+    {
+        "N": "Upper Marehay Road (Opposite)",
+        "C": "dbsdtgjp",
+        "I": "S",
+        "Id": "6985",
+        "Lat": 53.03341250409,
+        "Lon": -1.40547825341
+    },
+    {
+        "N": "V Pack Engineering (Opposite)",
+        "C": "dbyajamj",
+        "I": "NE",
+        "Id": "1448",
+        "Lat": 52.94354446159,
+        "Lon": -1.46568452139
+    },
+    {
+        "N": "V Pack Engineering (Outside)",
+        "C": "dbyamgja",
+        "I": "SW",
+        "Id": "1442",
+        "Lat": 52.94319429724,
+        "Lon": -1.46577811956
+    },
+    {
+        "N": "Van Elle ",
+        "C": "ntsgjmtg",
+        "I": "STOP",
+        "Id": "17625",
+        "Lat": 53.09443895047,
+        "Lon": -1.29337006104
+    },
+    {
+        "N": "Van Elle (Opposite)",
+        "C": "ntsdwgag",
+        "I": "NE",
+        "Id": "16929",
+        "Lat": 53.09456345778,
+        "Lon": -1.29314402168
+    },
+    {
+        "N": "Victoria Road",
+        "C": "dbsdpdta",
+        "I": "NW",
+        "Id": "7670",
+        "Lat": 53.09251982168,
+        "Lon": -1.31726383321
+    },
+    {
+        "N": "Victoria Road",
+        "C": "dbsdpdtd",
+        "I": "SE",
+        "Id": "7671",
+        "Lat": 53.09307984022,
+        "Lon": -1.31773282227
+    },
+    {
+        "N": "Water Lane E-Bound",
+        "C": "dbsgwpwm",
+        "I": "NE",
+        "Id": "3030",
+        "Lat": 53.1062306639,
+        "Lon": -1.3319393566
+    },
+    {
+        "N": "Water Lane NW-Bound",
+        "C": "dbsgwtad",
+        "I": "NW",
+        "Id": "3033",
+        "Lat": 53.10596954859,
+        "Lon": -1.33346700226
+    },
+    {
+        "N": "Wentworth Road (Ashfield School Opposite)",
+        "C": "ntsgapmw",
+        "I": "SW",
+        "Id": "16919",
+        "Lat": 53.10960767159,
+        "Lon": -1.26724791533
+    },
+    {
+        "N": "Wentworth Road (Ashfield School Outside)",
+        "C": "ntsgaptd",
+        "I": "NE",
+        "Id": "16921",
+        "Lat": 53.10839197177,
+        "Lon": -1.2683590584
+    },
+    {
+        "N": "Westley Crescent ",
+        "C": "dbsatdmd",
+        "I": "NE",
+        "Id": "6390",
+        "Lat": 52.97813642933,
+        "Lon": -1.45599463779
+    },
+    {
+        "N": "Westley Crescent (Opposite)",
+        "C": "dbsatdmg",
+        "I": "S",
+        "Id": "6391",
+        "Lat": 52.97766976121,
+        "Lon": -1.45616431775
+    },
+    {
+        "N": "Wharf Road (Pinxton Toll Bar W-Bound)",
+        "C": "dbsdpdpd",
+        "I": "SW",
+        "Id": "7664",
+        "Lat": 53.09175218343,
+        "Lon": -1.31040709452
+    },
+    {
+        "N": "Wilson Street",
+        "C": "dbsgmtpw",
+        "I": "W",
+        "Id": "3219",
+        "Lat": 53.0981843935,
+        "Lon": -1.3816914667
+    },
+    {
+        "N": "Windmill Avenue ",
+        "C": "dbsdwagd",
+        "I": "SE",
+        "Id": "6154",
+        "Lat": 53.00512082169,
+        "Lon": -1.42883140175
+    },
+    {
+        "N": "Windmill Avenue (Opposite)",
+        "C": "dbsapwga",
+        "I": "NW",
+        "Id": "6155",
+        "Lat": 53.00477574323,
+        "Lon": -1.42810574505
+    },
+    {
+        "N": "Windy Lane",
+        "C": "dbsdtpgw",
+        "I": "NE",
+        "Id": "6388",
+        "Lat": 52.97518404893,
+        "Lon": -1.45908456344
+    },
+    {
+        "N": "Windy Lane (Opposite)",
+        "C": "dbsatdma",
+        "I": "SW",
+        "Id": "6389",
+        "Lat": 52.97533475833,
+        "Lon": -1.45862102791
+    },
+    {
+        "N": "Sutton Bus Station (buses to Mansfield)",
+        "C": "ntsdwama",
+        "I": "STOP",
+        "Id": "f3",
+        "Lat": 53.12568608848,
+        "Lon": -1.26380640691
+    }
+]
