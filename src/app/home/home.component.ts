@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
-import { DataService } from '../shared/data.service';
+import { TrentService as DataService } from '../shared/trent.service';
+import { Observable } from 'rxjs/Observable';
 
 @Component({
     selector: 'home',
@@ -10,10 +11,15 @@ export class HomeComponent implements OnInit {
     
     projectName: string;
 
-    constructor(private dataService: DataService) { }
+    constructor(protected dataService: DataService
+    ) { 
+    }
 
     ngOnInit() { 
         this.projectName = this.dataService.getProjectName();
+
+        this.dataService.data$.subscribe(val => console.log(val));
+
     }
 
 }

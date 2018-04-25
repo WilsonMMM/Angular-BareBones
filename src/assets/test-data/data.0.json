@@ -1,0 +1,18 @@
+[
+  {
+    "type": "A",
+    "value": 1
+  },
+  {
+    "type": "B",
+    "value": 2
+  },
+  {
+    "type": "B",
+    "value": 4
+  },
+  {
+    "type": "A",
+    "value": 4
+  }
+]
