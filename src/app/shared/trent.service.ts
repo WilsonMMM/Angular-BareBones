@@ -16,6 +16,14 @@ type Stop = {
     result: Bus[]
 }
 
+type Route = {
+    uniqueIdentifier: string // "31TB91:91nines",
+    serviceName: string // "nines",
+    start: number // 20919,
+    end: number // 1250,
+    stops: number[] // [8309, 8300, 8288, 3033, 3032, 8298, 8294, 8312, 8296, 8286, 3112, 3211, 3223, 3221, 3219, 3182, 3183, 3117]
+}
+
 type Bus = {
     uniqueIdentifier: string // "1TB91:91nines",
     serviceName: string // "nines",
@@ -39,8 +47,35 @@ export class TrentService {
     constructor() {
         this.dataSubject$ = new Subject<Bus>();
 
+        let routes$ = this.getRoutes();
+
+        let stopData$ = routes$.pipe(
+            flatMap(route => {
+                return from(route.stops).pipe(
+                    mergeMap(stopId => {
+                        return fromPromise(fetch(`https://www.trentbarton.co.uk/RTILiveTimings.aspx?m=GetRtiFull&service=28&stop=${stopId}`)).pipe(
+                            flatMap(data => fromPromise<Route[]>(data.json())),
+                            flatMap(dataArr => from(dataArr)),
+                        );
+                    })
+                );
+            })
+        );
+
+        stopData$.subscribe(
+            data => console.log(data)
+        );
+
         this.getData();
 
+    }
+
+    getRoutes() {
+        return fromPromise(fetch(`assets/test-data/routes-test.json`)).pipe(
+            flatMap(data => fromPromise<Route[]>(data.json())),
+            flatMap(dataArr => from(dataArr)),
+            shareReplay(1),
+        );
     }
 
     getData() {

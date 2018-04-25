@@ -1,2 +1,3 @@
 https://www.trentbarton.co.uk/RTILiveTimings.aspx?m=GetStopsForMap&isService=true&service=28 - Fetch Stop Details
 https://www.trentbarton.co.uk/RTILiveTimings.aspx?m=GetDirections&service=28 - Fetch Directions
+https://www.trentbarton.co.uk/RTILiveTimings.aspx?m=GetRtiFull&service=28&stop=8309 - Fetch Timings for Stop
